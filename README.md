@@ -1,4 +1,4 @@
-# PyTask
+# PyTask ( Python scripts to make our task easier )
 python scripts to make our task easier
 
 ## 1. [stayUpdated](https://github.com/shubhgarg2401/Stayupdated)
